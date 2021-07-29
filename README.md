@@ -1,0 +1,2 @@
+# Bonus-Task
+BONUSTASK  Create an web application using create-react-app template 1. Create a form with the following details User Model,  a. Name - string b. Email - should be a valid email address c. Phone - should d. Age - should be an int e. Gender - dropdown list f. Date of Birth - date time stamp  2. Submit Button - on submitting the form, add the details of entered user detail to the list of user models 3. Proper validation should be done on submitting the form. Display the validation error in proper format 4. Display the details in the table format 
